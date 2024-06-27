@@ -1,6 +1,6 @@
-# PRODIGY_DS_04: Twitter Sentiment Analysis
+# PRODIGY_DS_04
 
-This repository contains a Python script (`task_4.py`) that performs sentiment analysis on Twitter data, including data preprocessing, exploratory data analysis (EDA), and machine learning model training for sentiment classification.
+This repository contains a Python script (`task_4.ipynb`) that performs sentiment analysis on Twitter data, including data preprocessing, exploratory data analysis (EDA), and machine learning model training for sentiment classification.
 
 ## Description
 
@@ -42,7 +42,7 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud
 4. Run the script using the following command:
 
 ```
-python task_4.py
+python task_4.ipynb
 ```
 
 The script will execute, and you'll see the output and visualizations in your console or a separate window, depending on your system configuration.
